@@ -53,7 +53,7 @@
 
 <a href="https://github.com/Anushdubey01">
   <img src="[![Anush's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushdubey01&show_icons=true&theme=dark)]" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushdubey01&layout=compact" width="375"  alt="0xanushdubey01"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushdubey01&layout=compact" width="375"  alt="anushdubey01"/>
 
 </a>
 </div>
