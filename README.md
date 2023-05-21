@@ -49,7 +49,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/Anushdubey01">
   <img src="[![Anush's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushdubey01&show_icons=true&theme=dark)]" width="450"/>
@@ -67,7 +67,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/anush-dubey-8426b5208/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:Anush Dubey-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -75,7 +75,7 @@
 
 <li>
 <a href="https://twitter.com/AnushDubey2/" target="_blank">
-<img src="https://img.shields.io/badge/Twitter:Anush Dubey-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Twitter&logoColor=white" alt=Twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Twitter-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Twitter&logoColor=white" alt=Twitter style="margin-bottom: 5px;"/>
 </a>
 	 	
 
