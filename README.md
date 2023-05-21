@@ -74,8 +74,9 @@
 <br>
 
 <li>
-<a href="https://twitter.com/AnushDubey2" target="_blank">
-<img src="[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/anushdubey2)" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/AnushDubey2/" target="_blank">
+<img src="https://img.shields.io/badge/Twitter:Anush Dubey-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Twitter&logoColor=white" alt=Twitter style="margin-bottom: 5px;"/>
+</a>
 	 	
 
 </a>
