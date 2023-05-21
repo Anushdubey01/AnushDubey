@@ -67,7 +67,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/anush-dubey-8426b5208/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:Anush Dubey-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -75,7 +75,7 @@
 
 <li>
 <a href="https://twitter.com/AnushDubey2" target="_blank">
-<img src="https://img.shields.io/twitter/url/https/twitter.com/anushdubey2.svg?style=social&label=Follow%20%40anushdubey2)](https://twitter.com/anushdubey2" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/twitter/url/https/twitter.com/anushdubey2.svg?style=social&label=Follow%20%40anushdubey2)](https://twitter.com/anushdubey2)" alt=twitter style="margin-bottom: 5px;"/>
 
 </a>
 </li>
