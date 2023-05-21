@@ -13,8 +13,8 @@
 
 - A passionate Data Science Student.
 - Doing Visual Art at spare time
-- Currently learning AI & ML.
-- Personal website [link](https://www.anushdubey.godaddysites.com)
+- Currently Learning AI & ML.
+- Personal Website [] (https://www.anushdubey.godaddysites.com)
 
 <br><br>
 
