@@ -2,6 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 | Data Science | Machine Learning | Visual Art |
 --------------------------------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushdubey01&label=Profile%20views&color=0e75b6&style=flat" alt="anushdubey01" /> </p>
+
 I'm Passionate about AI & ML and currently pursuing Computer Science Engineering with Data Science Specialization.
 
 * 🌍  I'm based in India 🇮🇳
